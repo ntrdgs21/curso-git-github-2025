@@ -4,3 +4,8 @@ pwd -> mostra diretório atual
 cat -> mostra oque há escrito no arquivo
 rm -rf -> exclui a pasta sem perguntar, forçando a exclusão
 git init -> Cria a pasta especial onde podemos versionar
+git add -> Prepara o arquivo que vai ser versionado
+git status -> mostra o status do diretório onde o git foi iniciado
+git commit -> Nosso "checkpoint", ou seja, salvamos aquela versão
+git config --global user.email "nathanrjobs@gmail.com" -> É uma "assinatura" de que fez o commit. O global é porque queremos utilizar outras vezes
+git config --global user.name "Nathan Rodrigues" -> Nossa outra assinatura
