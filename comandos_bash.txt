@@ -1,0 +1,6 @@
+ls -> lista arquivos  | ls -a -> mostra arquivos ocultos
+cd -> move entre diretórios	
+pwd -> mostra diretório atual
+cat -> mostra oque há escrito no arquivo
+rm -rf -> exclui a pasta sem perguntar, forçando a exclusão
+git init -> Cria a pasta especial onde podemos versionar
