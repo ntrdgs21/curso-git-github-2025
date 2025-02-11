@@ -1,0 +1,1 @@
+esse arquivo contém comandos adicionais para git
