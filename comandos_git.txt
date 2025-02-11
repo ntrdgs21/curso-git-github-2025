@@ -6,5 +6,7 @@ git config --global user.email "nathanrjobs@gmail.com" -> É uma "assinatura" de
 git config --global user.name "Nathan Rodrigues" -> Nossa outra assinatura
 git add . -> Adiciona tudo na pasta atual para ser commitado
 git log -> mostra todo o histórico de commit 
+
 git diff aquivo_no_diretorio -> Podemos ver oque foi mudado
+
 git reset arquivo_q_nao_queremos -> Se utilizarmos o comando "git add ." podemos remover o arquivo que não queremos commitar.
