@@ -5,4 +5,6 @@ git commit -m -> Nosso "checkpoint", ou seja, salvamos aquela versão
 git config --global user.email "nathanrjobs@gmail.com" -> É uma "assinatura" de que fez o commit. O global é porque queremos utilizar outras vezes
 git config --global user.name "Nathan Rodrigues" -> Nossa outra assinatura
 git add . -> Adiciona tudo na pasta atual para ser commitado
-git5 log -> mostra todo o histórico de commit 
+git log -> mostra todo o histórico de commit 
+git diff aquivo_no_diretorio -> Podemos ver oque foi mudado
+git reset arquivo_q_nao_queremos -> Se utilizarmos o comando "git add ." podemos remover o arquivo que não queremos commitar.
